@@ -1,6 +1,7 @@
 # House_Price_Prediction_ML
 
 This project builds a Machine Learning model to predict **house prices** based on property features. It follows a complete ML workflow:
+
 **Problem Statement → Selection of Data → Collection of Data → EDA → Train/Test Split → Model Selection → Evaluation Metrics**
 
 ---
