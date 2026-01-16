@@ -1,6 +1,7 @@
 # House Price Prediction Using Linear Regression (Machine Learning)
 
 This project builds a **regression** model to predict **house prices** based on basic property features like **Area, Bedrooms, and Bathrooms**. It follows the standard ML workflow:
+
 **Problem Statement → Selection of Data → Collection of Data → EDA → Train/Test Split → Model Selection → Evaluation Metric**
 
 ---
